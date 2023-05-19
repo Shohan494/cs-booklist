@@ -1,5 +1,14 @@
 # cs-booklist
 
+## shortlist
+
+- Computer Systems - A Programmer's Perspective
+- cracking the coding interview
+- "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+- "The Pragmatic Programmer" by Andrew Hunt and David Thomas
+- Grokking the System Design Interview
+- grokking algorithms
+
 Code Complete (2nd edition) by Steve McConnell
 The Pragmatic Programmer
 Structure and Interpretation of Computer Programs
