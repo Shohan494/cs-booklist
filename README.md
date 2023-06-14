@@ -1,6 +1,11 @@
 # cs-booklist
 
 ## shortlist
+- দ্যা ফাইভ টেম্পটেশন অব এ সিইও
+- দ্যা ফাইভ ডিসফাংশন অব এ টিম।
+- দ্যা নিউ ওয়ান মিনিট ম্যানেজার
+- head first
+- ডেটা স্ট্রাকচার এন্ড অ্যাল্গোরিদম ইন জাভা বাই Michael T. Goodrich 
 
 - Computer Systems - A Programmer's Perspective
 - cracking the coding interview
